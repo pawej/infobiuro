@@ -32,8 +32,7 @@ echo '<br>
 <input type="submit" name="Drukuj" onclick=window.print() value="Drukuj">';
 
 }
-
-echo "nowa linia";
-echo "aplikacja";
+echo "kasujemy to ciekawe czy zapamieta co bylo pdo spodem";
+echo "zmienna";
 ?>
 
