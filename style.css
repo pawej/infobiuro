@@ -1,0 +1,99 @@
+body {font-family: "Trebuchet MS", Tahoma, Arial;font-size : 12px; margin-left : 5px;}
+table {font-family: "Trebuchet MS", Tahoma, Arial;font-size : 14px;}
+input {font-family: "Trebuchet MS", Tahoma, Arial;font-size : 14px;}
+select {font-family: "Trebuchet MS", Tahoma, Arial;font-size : 14px;}
+A:link {text-decoration: none; color: Blue;}
+A:visited {text-decoration: none; color: Blue;}
+A:active {text-decoration: none; color: Blue;} 
+A:hover {text-decoration: underline; color: #3399ff;} 
+
+A.nagl_tab:link {text-decoration: underline;color: White;}
+A.nagl_tab:visited {text-decoration: underline; color: Yellow;}
+A.nagl_tab:active {text-decoration: none; color: Yellow;} 
+A.nagl_tab:hover {text-decoration: none; color: #ffcc00;} 
+
+.clsCMOn {
+	color: black;
+	font-size : 14px;
+	text-decoration : none;
+     padding: 2px 4px;
+}
+.clsCMOver {
+	color: black;
+	font-size : 14px;
+	text-decoration : none;
+    padding: 2px 4px;
+}
+table.logowanie {
+	border: solid #08245b 2px;
+	background: #d6ebff;
+	font-size: 14px;
+	line-height: 2;
+
+}
+table.wylogowanie {
+	border: solid #08245b 2px;
+	background: #d6ebff;
+	font-size: 14px;
+	line-height: 2;
+
+}
+TH.logowanie {
+	background-color: #08245b;
+	color: #ffffff;
+	border: outset #D1D1CD 1px;
+	font-weight: normal;
+}
+td.naglowek {
+	background-color: #003399;
+	color: #ffffff;
+	font-weight: bold;
+	border-bottom: 1px solid #4996ba;
+	border-left: 1px solid #4996ba;
+}
+
+td.naglowek1 {
+	background-color: #003399;
+	color: #ffffff;
+	font-weight: bold;
+	border-bottom: 1px solid #4996ba;
+	border-right: 1px solid #4996ba;
+	border-left: 1px solid #4996ba;
+
+}
+td.reszta {
+	border-bottom: 1px solid #4996ba;
+	border-left: 1px solid #4996ba;
+}
+td.reszta1 {
+	border-bottom: 1px solid #4996ba;
+	border-right: 1px solid #4996ba;
+	border-left: 1px solid #4996ba;
+
+}
+td.reszta2 {
+    border-top: 1px solid #4996ba;
+	border-bottom: 1px solid #4996ba;
+	border-left: 1px solid #4996ba;
+
+}
+td.reszta3 {
+    border-top: 1px solid #4996ba;
+	border-bottom: 1px solid #4996ba;
+	border-right: 1px solid #4996ba;
+	border-left: 1px solid #4996ba;
+
+}
+INPUT.logowanie {
+	border: 1px solid black;
+	font-size: 14px;
+}
+INPUT.formy {
+	border: 1px solid black;
+}
+
+}
+INPUT.formy1 {
+	border: 1px solid black;
+	font-size : 10px;
+}
