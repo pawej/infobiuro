@@ -99,6 +99,7 @@ INPUT.formy1 {
 }
 
 INPUT.formy2 {
-	border: 1px solid black;
-	font-size : 10px;
+	border: 2px solid black;
+	font-size: 15px;
+	color: Blue;
 }
